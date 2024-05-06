@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ensan3Shane
 - 👀 I’m interested in Coding, Scripting and all things in Cybersecurity 
 - 🌱 I’m currently working to build a strong foundation in Cyber, currently my focus is on Bash Scripting and Python.
+-  Please take a look at what I am working on!
 
 
 
